@@ -1,0 +1,50 @@
+body{
+    background-color: #da782d;
+}  
+
+.container{
+    padding: 10px;
+} 
+
+nav {
+    display: flex;
+    gap: 16px;
+}
+
+a {
+    all: unset;
+    border: 1px burlywood;
+    padding: 8px 16px 16px;
+    border-radius: 6px;
+    background-color: burlywood;
+    color: white;
+}
+
+
+h2 ul li {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.personName{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.personImage{
+    padding: 30px;
+    max-width: 10%;
+    max-height: 10%;
+    
+}
+
+.experience h1{
+    font-size: 12px;
+}
+
+.achievement h1{
+    font-size: 18px;
+}
